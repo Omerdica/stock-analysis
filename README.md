@@ -11,9 +11,18 @@
 
 <img src= C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_2018.png>
 
-## The second refactored code was put in to see if we can increase the speed that we get the results in.
+## The second refactored code was put in to see if we can take a different approach to gain more inforamtion that we could provide for Steve. We were able to increase the speed of the code and also clen up the data more. By adding tickerIndex we were able to spereate data and   
 
 <img src=C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_Code.png>
+
+
+<img src=C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_2017.png>
+
+<img src=C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_2018.png>
+
+# By looking at the the scrteenshots we can see that the code impoved impreoved significantly. 
+
+### Summary 
 
 
 
