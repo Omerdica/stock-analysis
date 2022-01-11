@@ -9,16 +9,15 @@
 
 ![Original_Code](Resources/Original_2017.png)
 
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_2018.png">
+![Original_Code](Resources/Original_2018.png)
 
 ### The refactored code was created to see if a different approach would provide more specific information for Steve. By doing this, we were able to increase the speed of the code and also clean up the data. We started by adding indexVolumes and creating new For loops.   
 
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_Code.png">
+![Original_Code](Resources/Refactored_Code.png)
 
+![Original_Code](Resources/Refactored_2017.png)
 
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_2017.png">
-
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Refactored_2018.png">
+![Original_Code](Resources/Refactored_2018.png)
 
 ### By looking at the the screenshots we can see that the code impreoved significantly. 
 
