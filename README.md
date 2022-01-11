@@ -7,8 +7,7 @@
 
 ![Original_Code](Resources/Original_Code.png)
 
-
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_2017.png">
+![Original_Code](Resources/Original_2017.png)
 
 <img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_2018.png">
 
