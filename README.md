@@ -5,7 +5,8 @@
 ### Refactored Analysis
 ### After creating DqAnalysis, we realised that Steve's parents would not benefit from investing in this specific stock. We determined it would be best to run data on all stocks. We had to create a new macro that would help us provide more in-depth information for Steve. The first VBA code we made was to break down the total volume for each company and their annual return. 
 
-<img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_Code.png">
+![Original_Code](Resources/Original_Code.png)
+
 
 <img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Green_Stocks\Resources\Original_2017.png">
 
