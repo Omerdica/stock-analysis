@@ -9,7 +9,7 @@ Sub AllStocksAnalysisRefactored()
        Dim tickerVolumes(12) As Long
        Dim tickerStartingPrices(12) As Single
        Dim tickerEndingPrices(12) As Single
-        
+       
         
     Worksheets("All Stocks Analysis").Activate
     
